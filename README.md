@@ -1,6 +1,9 @@
  dev.sahar.renameReadme
 #best group ever
 
+dev.sahar.addinfo
+Sahar MahmoudiMotlagh / Aixin Zhong
+
 # Midterm!
 ## Group :
 Proposition: Sahar Mahmoudimotlagh
