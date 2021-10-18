@@ -1,6 +1,11 @@
+dev.sahar.updatinghtml
  dev.sahar.updatinghtml
+
+ dev.sahar.renameReadme
+
 #best group ever
 
+dev.sahar.addinfo
 Sahar MahmoudiMotlagh / Aixin Zhong
 
 # Midterm!
@@ -22,4 +27,7 @@ Create a simple page with images and text. Divide the page into two sections, us
 Create a conflict with your teammate before you get too far into the assignment; resolve it. Take a screenshot of the conflict details and submit that wth your repo.
 
 Make sure you merge everything to master and submit the link.
+ dev.sahar.updatinghtml
+
+
 
