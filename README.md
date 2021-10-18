@@ -1,12 +1,3 @@
- dev.sahar.addimage
-
-
- dev.sahar.renameReadme
-
-#best group ever
-
-dev.sahar.addinfo
-Sahar MahmoudiMotlagh / Aixin Zhong
 
 # Midterm!
 ## Group :
