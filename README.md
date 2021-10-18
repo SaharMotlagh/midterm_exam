@@ -1,7 +1,3 @@
- edv.sahar.addstructure
-#best group ever
-
-Sahar MahmoudiMotlagh / Aixin Zhong
 
 # Midterm!
 ## Group :
@@ -22,4 +18,5 @@ Create a simple page with images and text. Divide the page into two sections, us
 Create a conflict with your teammate before you get too far into the assignment; resolve it. Take a screenshot of the conflict details and submit that wth your repo.
 
 Make sure you merge everything to master and submit the link.
+
 
