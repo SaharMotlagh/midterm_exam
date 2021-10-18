@@ -20,5 +20,3 @@ Create a conflict with your teammate before you get too far into the assignment;
 Make sure you merge everything to master and submit the link.
 
 
-
-
